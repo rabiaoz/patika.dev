@@ -1,4 +1,4 @@
-# merge sort
+# binary search tree
 
 ![image](./sss.jpeg)
 

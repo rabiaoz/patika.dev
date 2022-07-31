@@ -1,5 +1,4 @@
-#merge sort
-![image](Web yakalama_31-7-2022_142741_yongdanielliang.github.io.png)
+# merge sort
 
-#başlık
-
+# başlık
+![image](C:\Users\Casper\Desktop\projeler\patika.dev\yazilima giris\odev1.png)

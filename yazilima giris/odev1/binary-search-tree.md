@@ -1,3 +1,3 @@
 # binary search tree
 
-![image](./sss.jpeg)git
+![image](./sss.jpeg)
